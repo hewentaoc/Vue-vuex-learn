@@ -1,0 +1,25 @@
+{
+  "banner": "http://file.market.xiaomi.com/thumbnail/webp/l720/AppStore/04782e4f3374240361c482b8f907f0347c27801b0",
+  "bannerName": "bannerName",
+  "icon": "http://file.market.xiaomi.com/thumbnail/webp/l112/AppStore/46418e43-bf0a-459d-97c1-1a727f5c5b7c",
+  "displayName": "displayName",
+  "ratingScore": "7",
+  "apkSize": "7",
+  "theme": "迎元旦，送豪礼！会上瘾的听书软件！【氧气听书】",
+  "awardList": [
+    "氧气盟主：4名，小米4手机四部，价值：10000元",
+    "氧气大神：20名，移动/电信/联通话费50元，价值1000元",
+    "氧气读书人：50名，移动/电信/联通话费20元，价值：1000元",
+    "氧气爱心奖：新用户登录注册即可免费畅听1个月"
+  ],
+  "activityFlowList": [
+    "奖品将在结束后五个工作日内，工作人员抽取绑定用户获奖名单",
+    "@氧气听书 官方微信公众号发布获奖名单，并由工作人员以电话形式通知获奖用户，进行奖品派发。",
+    "如遇特殊情况未能实现领取，请联系客服：118178"
+  ],
+  "endTimeStr": "2015-01-02",
+  "campaignType": "参与抽奖",
+  "pName": "com.anysoft.tyyd",
+  "appId": "2726",
+  "appVersion": "0"
+}

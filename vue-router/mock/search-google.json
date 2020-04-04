@@ -1,0 +1,121 @@
+{
+    "hasMore": false,
+    "host": "http://f2.market.xiaomi.com/download/",
+    "listApp": [
+        {
+            "adType": 0,
+            "ads": 0,
+            "apkSize": 16691453,
+            "appendSize": 0,
+            "briefShow": "全新中文滑行输入来了! 谷歌拼音输入法是一款专门用于输入中文的输入法",
+            "briefUseIntro": true,
+            "displayName": "谷歌拼音输入法",
+            "icon": "AppStore/deaca6b8-3920-435f-b2ef-d418ae6b539c",
+            "id": 1124,
+            "level1CategoryId": 5,
+            "level1CategoryName": "实用工具",
+            "level2CategoryId": 0,
+            "packageName": "com.google.android.inputmethod.pinyin",
+            "position": 0,
+            "publisherName": "Google Inc.",
+            "rId": 0,
+            "ratingScore": 2,
+            "releaseKeyHash": "9c36f803818ad0c46ba338d64a42107d",
+            "screenshot": "AppStore/09d144a0dd450c7af6119ae7c2aad60769841da9e,AppStore/02d14e40d84f047ad11193e7ca6ad9026a5fca7d9,AppStore/0dd14e40d84f047ae1119fe7ca1ad90d6a5fea7d9,AppStore/09d144a0df45057af01193e7c9aad20766841da9e,AppStore/0fd14e40d84c047ab1119de7ca7ad9066a5f5a7d9",
+            "source": "",
+            "suitableType": 2,
+            "updateTime": 1444988381706,
+            "versionCode": 787,
+            "versionName": "4.1.3.102019239-x86_64",
+            "videoId": 0
+        },
+        {
+            "apkSize": 30554718,
+            "comeFrom": "bd",
+            "displayName": "百度糯米-美食电影",
+            "downloadUrl": "https://app.market.xiaomi.com/apm/thirdpart/downloadredirect?redirectUrl=aHR0cDovL20uYmFpZHUuY29tL2FwaT9hY3Rpb249cmVkaXJlY3QmdG9rZW49eGlhb21pJmZyb209MTI2OWgmdHlwZT1hcHAmZGx0eXBlPW5ldyZyZWZpZD0wNDEzNzcxODg3JnRqPXNvZnRfMTAwNTI5MDJfMzA1MzIwNDM4MV8lRTclOTklQkUlRTUlQkElQTYlRTclQjMlQUYlRTclQjElQjMtJUU3JUJFJThFJUU5JUEzJTlGJUU3JTk0JUI1JUU1JUJEJUIxJnJlZnA9YWN0aW9uX3NlYXJjaEBxdWVyeV8lRTclOTklQkUlRTUlQkElQTYlRTclQjMlQUYlRTclQjElQjMmYmxpbms9MmRiMDY4NzQ3NDcwM2EyZjJmNjEyZTY3NjQ2Zjc3NmUyZTYyNjE2OTY0NzUyZTYzNmY2ZDJmNjQ2MTc0NjEyZjc3Njk3MzY1Njc2MTZkNjUyZjYxMzYzMzM3NjY2MTM4MzczMTYxMzUzNDM2MzUzNzYzMmY2MjYxNjk2NDc1NmU3NTZmNmQ2OTVmMzIzMDMxMmU2MTcwNmIzZjY2NzI2ZjZkM2Q2MTMxMzEzMDMxMGU1OCZjcnZlcnNpb249MQ&basicinfo=JmNsaWVudElkPWFmNTA0MTI3MDk2ZjhmNjFjZTc3NDBmYjAyNjhiNjA2JmNvPUNOJmRlbnNpdHlTY2FsZUZhY3Rvcj0zLjAmZGV2aWNlVHlwZT0wJmltZWk9MmJjNWRlODM0MzRhZTQ4NjQ0YjE4ZjhhNjJlMTExN2Ima2V5d29yZD3nmb7luqbns6_nsbMmbGE9emgmbG89Q04mbWFjPWFmNTA0MTI3MDk2ZjhmNjFjZTc3NDBmYjAyNjhiNjA2Jm1hcmtldFZlcnNpb249MTkxNDExMyZtaXVpQmlnVmVyc2lvbkNvZGU9NiZtaXVpQmlnVmVyc2lvbk5hbWU9VjgmbW9kZWw9TUkgNSZvcz1WOC4wLjEyLjAuTUFBQ05ESSZwYWdlPTAmcGFnZUNvbmZpZ1ZlcnNpb249MTMyJnBhZ2VSZWY9bWFya2V0X2RlZmF1bHQmcmVzb2x1dGlvbj0xMDgwKjE5MjAmcm89dW5rbm93biZzZGs9MjMmc2Vzc2lvbj1CeDUzMWF5Nl9rczlYYlRqJnNpZ25hdHVyZT01YWZzWHlCZWVmRGJDZG8vRUxqdGpUSkovSFU9JnR5cGU9YmQmd2ViUmVzVmVyc2lvbj01MDY&type=bd&avoid=",
+            "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=641bd63a5a2bda212b1981cc074cd784&ref=http%3A%2F%2Fc.hiphotos.bdimg.com&src=http%3A%2F%2Fc.hiphotos.bdimg.com%2Fwisegame%2Fpic%2Fitem%2Fd78f8c5494eef01f485c9434e8fe9925bd317df3.jpg",
+            "id": "bd_10052902",
+            "introduction": "糯米邀你玩转国庆月，吃喝玩乐优惠享不停。<br> 【1】新用户1元钱吃大餐，聚餐享美食！<br> 【2】周三半价日、周五酒店节、超级星期六，天天有节享不停！<br> 【3】一元抢宝，天天疯狂抢！<br> 【4】自助餐拼团返现，最低0元享高端自助！不再犹豫，拿起手机，约上好友，一起享受糯米带来的精彩生活。",
+            "marketName": "百度",
+            "marketType": "bd",
+            "packageName": "com.nuomi",
+            "screenshot": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=1fc40f11a895568d64e7b70f62f0d3fb&ref=http%3A%2F%2Fe.hiphotos.bdimg.com&src=http%3A%2F%2Fe.hiphotos.bdimg.com%2Fwisegame%2Fpic%2Fitem%2Ff158d109b3de9c8255ba757e6481800a18d84360.jpg,http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=b6161b3d99887fc6c0f8c80b2334c486&ref=http%3A%2F%2Fb.hiphotos.bdimg.com&src=http%3A%2F%2Fb.hiphotos.bdimg.com%2Fwisegame%2Fpic%2Fitem%2Fc51ea8d3fd1f413406e8898f2d1f95cad0c85e60.jpg",
+            "updateTime": 1475203414000,
+            "versionCode": 201,
+            "versionName": "6.8.0"            
+        },
+        {
+            "apkSize": 43760998,
+            "comeFrom": "bd",
+            "displayName": "手机百度",
+            "downloadUrl": "https://app.market.xiaomi.com/apm/thirdpart/downloadredirect?redirectUrl=aHR0cDovL20uYmFpZHUuY29tL2FwaT9hY3Rpb249cmVkaXJlY3QmdG9rZW49eGlhb21pJmZyb209MTI2OWgmdHlwZT1hcHAmZGx0eXBlPW5ldyZyZWZpZD0wNDEzNzcxODg3JnRqPXNvZnRfMTAwNDIzNDBfMzkzNzY4NDkwXyVFNiU4OSU4QiVFNiU5QyVCQSVFNyU5OSVCRSVFNSVCQSVBNiZyZWZwPWFjdGlvbl9zZWFyY2hAcXVlcnlfJUU3JTk5JUJFJUU1JUJBJUE2JUU3JUIzJUFGJUU3JUIxJUIzJmJsaW5rPTJkYjA2ODc0NzQ3MDNhMmYyZjYxMmU2NzY0NmY3NzZlMmU2MjYxNjk2NDc1MmU2MzZmNmQyZjY0NjE3NDYxMmY3NzY5NzM2NTY3NjE2ZDY1MmYzNzM1MzE2NDYxNjE2NTY0MzQzODMwNjIzNzYzNjUzNjJmNzM2ODZmNzU2YTY5NjI2MTY5NjQ3NTVmMzIzNTMxMzYzNzM4MzczMjJlNjE3MDZiM2Y2NjcyNmY2ZDNkNjEzMTMxMzAzMTBlNTgmY3J2ZXJzaW9uPTE&basicinfo=JmNsaWVudElkPWFmNTA0MTI3MDk2ZjhmNjFjZTc3NDBmYjAyNjhiNjA2JmNvPUNOJmRlbnNpdHlTY2FsZUZhY3Rvcj0zLjAmZGV2aWNlVHlwZT0wJmltZWk9MmJjNWRlODM0MzRhZTQ4NjQ0YjE4ZjhhNjJlMTExN2Ima2V5d29yZD3nmb7luqbns6_nsbMmbGE9emgmbG89Q04mbWFjPWFmNTA0MTI3MDk2ZjhmNjFjZTc3NDBmYjAyNjhiNjA2Jm1hcmtldFZlcnNpb249MTkxNDExMyZtaXVpQmlnVmVyc2lvbkNvZGU9NiZtaXVpQmlnVmVyc2lvbk5hbWU9VjgmbW9kZWw9TUkgNSZvcz1WOC4wLjEyLjAuTUFBQ05ESSZwYWdlPTAmcGFnZUNvbmZpZ1ZlcnNpb249MTMyJnBhZ2VSZWY9bWFya2V0X2RlZmF1bHQmcmVzb2x1dGlvbj0xMDgwKjE5MjAmcm89dW5rbm93biZzZGs9MjMmc2Vzc2lvbj1CeDUzMWF5Nl9rczlYYlRqJnNpZ25hdHVyZT01YWZzWHlCZWVmRGJDZG8vRUxqdGpUSkovSFU9JnR5cGU9YmQmd2ViUmVzVmVyc2lvbj01MDY&type=bd&avoid=",
+            "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=69087986b82d538541dbf15dc53dcb3d&ref=http%3A%2F%2Fb.hiphotos.bdimg.com&src=http%3A%2F%2Fb.hiphotos.bdimg.com%2Fwisegame%2Fpic%2Fitem%2F534e251f95cad1c8ee25cff2773e6709c83d514c.jpg",
+            "id": "bd_10042340",
+            "introduction": "【软件介绍】<br>手机百度日活过亿，是国内活跃用户top3的app，依托百度家族特有的资源及技术优势，改变传统人“搜索”资讯的模式，最懂你的最新热点头条个性呈现，让生活简单高效。<br>【智能搜索】<br>手机百度依托百度最强大的搜索引擎技术， 致力于让网民更便捷地获取信息，找到所求， 每日为网民提供超过数十亿次的信息检索服务，瞬间直达你想要的诉求，与此同时强化基于情景建模、大数据分析、智能语义、语音合成等最新前沿技术，为您提供精准智能的搜索服务。<br>【个性新闻】<br>根据你的兴趣， 颠覆传统-人“搜索”信息模式 全新信息流，只需下拉刷新，最新最全的热点资讯第一时间掌握，足不出户尽享世间精彩，24小时刷不停，让每分每秒的生活都淋漓尽致。<br>【糯米生活】<br>打通百度糯米app内容，网罗全网最优惠的服务信息，包含美食，电影，外卖，ktv，丽人，机票，演出，旅游等数十种服务品类。致力于为您提供最完美的体验。温馨提示：GPS在后台持续运行会影响电池续航时间。",
+            "marketName": "百度",
+            "marketType": "bd",
+            "packageName": "com.baidu.searchbox",
+            "screenshot": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=1f321b2816dd1a9d03143417519f4131&ref=http%3A%2F%2Fe.hiphotos.bdimg.com&src=http%3A%2F%2Fe.hiphotos.bdimg.com%2Fwisegame%2Fpic%2Fitem%2Fabfcc3cec3fdfc03ce99d06ddc3f8794a5c22605.jpg,http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=32aea6654d9f07cfffdbd90915fae93a&ref=http%3A%2F%2Fh.hiphotos.bdimg.com&src=http%3A%2F%2Fh.hiphotos.bdimg.com%2Fwisegame%2Fpic%2Fitem%2Ff7eef01f3a292df5c7499fc0b4315c6035a87358.jpg",
+            "updateTime": 1475054072000,
+            "versionCode": 25167872,
+            "versionName": "8.0"            
+        },
+        {
+            "apkSize": 23213418,
+            "comeFrom": "bd",
+            "displayName": "百度视频",
+            "downloadUrl": "https://app.market.xiaomi.com/apm/thirdpart/downloadredirect?redirectUrl=aHR0cDovL20uYmFpZHUuY29tL2FwaT9hY3Rpb249cmVkaXJlY3QmdG9rZW49eGlhb21pJmZyb209MTI2OWgmdHlwZT1hcHAmZGx0eXBlPW5ldyZyZWZpZD0wNDEzNzcxODg3JnRqPXNvZnRfNzc4NTA5MF8zOTU1NjYxOTE2XyVFNyU5OSVCRSVFNSVCQSVBNiVFOCVBNyU4NiVFOSVBMiU5MSZyZWZwPWFjdGlvbl9zZWFyY2hAcXVlcnlfJUU3JTk5JUJFJUU1JUJBJUE2JUU3JUIzJUFGJUU3JUIxJUIzJmJsaW5rPTJkYjA2ODc0NzQ3MDNhMmYyZjYxMmU2NzY0NmY3NzZlMmU2MjYxNjk2NDc1MmU2MzZmNmQyZjY0NjE3NDYxMmY3NzY5NzM2NTY3NjE2ZDY1MmY2NjM0MzAzMDMwMzQzMzM3NjU2NjY0NjQzMjM3NjYzMzJmNjI2MTY5NjQ3NTczNjg2OTcwNjk2ZTVmMzEzMDM3MzEzMzMwMzAzODM1MzIyZTYxNzA2YjNmNjY3MjZmNmQzZDYxMzEzMTMwMzEwZTU4JmNydmVyc2lvbj0x&basicinfo=JmNsaWVudElkPWFmNTA0MTI3MDk2ZjhmNjFjZTc3NDBmYjAyNjhiNjA2JmNvPUNOJmRlbnNpdHlTY2FsZUZhY3Rvcj0zLjAmZGV2aWNlVHlwZT0wJmltZWk9MmJjNWRlODM0MzRhZTQ4NjQ0YjE4ZjhhNjJlMTExN2Ima2V5d29yZD3nmb7luqbns6_nsbMmbGE9emgmbG89Q04mbWFjPWFmNTA0MTI3MDk2ZjhmNjFjZTc3NDBmYjAyNjhiNjA2Jm1hcmtldFZlcnNpb249MTkxNDExMyZtaXVpQmlnVmVyc2lvbkNvZGU9NiZtaXVpQmlnVmVyc2lvbk5hbWU9VjgmbW9kZWw9TUkgNSZvcz1WOC4wLjEyLjAuTUFBQ05ESSZwYWdlPTAmcGFnZUNvbmZpZ1ZlcnNpb249MTMyJnBhZ2VSZWY9bWFya2V0X2RlZmF1bHQmcmVzb2x1dGlvbj0xMDgwKjE5MjAmcm89dW5rbm93biZzZGs9MjMmc2Vzc2lvbj1CeDUzMWF5Nl9rczlYYlRqJnNpZ25hdHVyZT01YWZzWHlCZWVmRGJDZG8vRUxqdGpUSkovSFU9JnR5cGU9YmQmd2ViUmVzVmVyc2lvbj01MDY&type=bd&avoid=",
+            "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=f2ca6c00aaecbd80f8940be5fb32c93d&ref=http%3A%2F%2Fe.hiphotos.bdimg.com&src=http%3A%2F%2Fe.hiphotos.bdimg.com%2Fwisegame%2Fpic%2Fitem%2F423fb80e7bec54e7c2b70af5bc389b504ec26a86.jpg",
+            "id": "bd_7785090",
+            "introduction": "【登录有礼】：登录就送糯米券哦！<br>【参与方式】：下载百度视频APP，点击“我的--登录送大奖”，不仅有10元糯米券拿到手，每天还有三次大转盘抽奖机会哦，吃喝玩乐随你嗨！ 快来下载快来玩儿！<br>百度视频汇聚全网最新最全的高清影视、新闻资讯、娱乐热点、体育赛事直播…你想看的，这里都有！<br>【小度在手，看片不愁】<br>《盗墓笔记》南派三叔同名小说改编，吴邪闷油瓶王胖子，挖盗洞打粽子<br>《花千骨》小骨百折不挠，愈挫愈勇，顽强倒追神尊霍建华<br>《两生花》唐七公子原著，刘恺威刘蜀黍演绎，有剧情有颜值！<br>《屌丝男士》本周又更新啦！大鹏又去大保健啦！<br>《欢乐喜剧人》这里有贱贱的宋小宝，还有萌萌哒大叔吴秀波<br>《奔跑吧兄弟》本周又开撕了，名牌撕撕撕不停<br>【世界这么大，小度带你去瞅瞅】<br>聚焦玉林狗肉节，城管警察加班巡逻<br>各地高考分数线公布，大学专业哪家强，学姐哪家美，快来戳小度嘤嘤嘤~~~<br>更多精彩，尽在百度视频！<br>有任何反馈和问题，欢迎加入百度视频官方QQ群：159819214，长期都有抽奖活动哦~~",
+            "marketName": "百度",
+            "marketType": "bd",
+            "packageName": "com.baidu.video",
+            "screenshot": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=812714791953a5e4a3875ab0bc0d1d9a&ref=http%3A%2F%2Fb.hiphotos.bdimg.com&src=http%3A%2F%2Fb.hiphotos.bdimg.com%2Fwisegame%2Fpic%2Fitem%2Ff3ef76c6a7efce1b9c71d821aa51f3deb58f6586.jpg,http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=cdb33f7c27ef90a362712df601bd5dd4&ref=http%3A%2F%2Fg.hiphotos.bdimg.com&src=http%3A%2F%2Fg.hiphotos.bdimg.com%2Fwisegame%2Fpic%2Fitem%2Fe126cffc1e178a82cfa56f4bf303738da877e844.jpg",
+            "updateTime": 1433924678000,
+            "versionCode": 1071300852,
+            "versionName": "7.13.0"
+        },
+        {
+            "apkSize": 10717342,
+            "comeFrom": "bd",
+            "displayName": "每日优鲜",
+            "downloadUrl": "https://app.market.xiaomi.com/apm/thirdpart/downloadredirect?redirectUrl=aHR0cDovL20uYmFpZHUuY29tL2FwaT9hY3Rpb249cmVkaXJlY3QmdG9rZW49eGlhb21pJmZyb209MTI2OWgmdHlwZT1hcHAmZGx0eXBlPW5ldyZyZWZpZD0wNDEzNzcxODg3JnRqPXNvZnRfMTAxNjQyNjNfMTQ1OTYwM18lRTYlQUYlOEYlRTYlOTclQTUlRTQlQkMlOTglRTklQjIlOUMmcmVmcD1hY3Rpb25fc2VhcmNoQHF1ZXJ5XyVFNyU5OSVCRSVFNSVCQSVBNiVFNyVCMyVBRiVFNyVCMSVCMyZibGluaz0yZGIwNjg3NDc0NzAzYTJmMmY2MTJlNjc2NDZmNzc2ZTJlNjI2MTY5NjQ3NTJlNjM2ZjZkMmY2NDYxNzQ2MTJmNzc2OTczNjU2NzYxNmQ2NTJmMzkzNTY1NjYzNTM1NjM2MzY1MzY2NjMwMzUzNDY0NjUyZjZkNjU2OTcyNjk3OTZmNzU3ODY5NjE2ZTVmMzQzOTMwMzAzMDJlNjE3MDZiM2Y2NjcyNmY2ZDNkNjEzMTMxMzAzMTBlNTgmY3J2ZXJzaW9uPTE&basicinfo=JmNsaWVudElkPWFmNTA0MTI3MDk2ZjhmNjFjZTc3NDBmYjAyNjhiNjA2JmNvPUNOJmRlbnNpdHlTY2FsZUZhY3Rvcj0zLjAmZGV2aWNlVHlwZT0wJmltZWk9MmJjNWRlODM0MzRhZTQ4NjQ0YjE4ZjhhNjJlMTExN2Ima2V5d29yZD3nmb7luqbns6_nsbMmbGE9emgmbG89Q04mbWFjPWFmNTA0MTI3MDk2ZjhmNjFjZTc3NDBmYjAyNjhiNjA2Jm1hcmtldFZlcnNpb249MTkxNDExMyZtaXVpQmlnVmVyc2lvbkNvZGU9NiZtaXVpQmlnVmVyc2lvbk5hbWU9VjgmbW9kZWw9TUkgNSZvcz1WOC4wLjEyLjAuTUFBQ05ESSZwYWdlPTAmcGFnZUNvbmZpZ1ZlcnNpb249MTMyJnBhZ2VSZWY9bWFya2V0X2RlZmF1bHQmcmVzb2x1dGlvbj0xMDgwKjE5MjAmcm89dW5rbm93biZzZGs9MjMmc2Vzc2lvbj1CeDUzMWF5Nl9rczlYYlRqJnNpZ25hdHVyZT01YWZzWHlCZWVmRGJDZG8vRUxqdGpUSkovSFU9JnR5cGU9YmQmd2ViUmVzVmVyc2lvbj01MDY&type=bd&avoid=",
+            "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=d9125847d1906ccb8705e7dec35f855e&ref=http%3A%2F%2Fd.hiphotos.bdimg.com&src=http%3A%2F%2Fd.hiphotos.bdimg.com%2Fwisegame%2Fpic%2Fitem%2F5987e950352ac65ceb08a8a2f3f2b21192138ad7.jpg",
+            "id": "bd_10164263",
+            "introduction": "水果生鲜2小时送货上门，全品类精选生鲜美食，下载注册即送80元新人优惠券。<br>全国配送，全程冷链，确保新鲜到家。北上广深白领及中产网购生鲜第一选择。<br>【2小时极速送达】配送超时有赔付<br>【100%全程冷链】从产地到舌尖，保留最原始新鲜<br>【精选食材】全品类五星顶级食材，每周30款上新<br>水果：智利车厘子、泰国龙眼、墨西哥牛油果<br>海鲜：加拿大龙虾、北极贝刺身、智利三文鱼<br>肉禽：丹麦猪肋排、散养油鸡、澳洲西冷牛排<br>熟食：老北京酱牛肉、秘制酱鸭、湘西柴火腊肉<br>蔬菜：黄秋葵、非洲冰草、铁棍山药、罗马生菜<br>牛奶：德国爱氏晨曦、波兰优雅牧场、澳洲澳青<br>【安全放心】全流程质检，全线产品无转基因<br>【会员权益】注册即成为会员，享受超低价优惠，专享会员商品，还有更多福利享不停",
+            "marketName": "百度",
+            "marketType": "bd",
+            "packageName": "cn.missfresh.application",
+            "screenshot": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=dae2b5ff671beb9e18faa56988bada39&ref=http%3A%2F%2Fb.hiphotos.bdimg.com&src=http%3A%2F%2Fb.hiphotos.bdimg.com%2Fwisegame%2Fpic%2Fitem%2Fe30a19d8bc3eb1357a62796aae1ea8d3fc1f44be.jpg,http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=c36825d55358f7f111c9efb3f323e01c&ref=http%3A%2F%2Fb.hiphotos.bdimg.com&src=http%3A%2F%2Fb.hiphotos.bdimg.com%2Fwisegame%2Fpic%2Fitem%2Fda389b504fc2d562a4601e3cef1190ef77c66cf3.jpg",
+            "updateTime": 1477104214000,
+            "versionCode": 49000,
+            "versionName": "4.9.0"
+        }
+    ],
+    "rejectReason": "因授权问题无法收录谷歌应用，请使用底部“百度”搜索   或 推荐使用已预置谷歌服务的国际版MIUI",
+    "supportMarketList": [
+        {
+            "icon": "AppStore/0daf05531571ec8ee944531df09b28bb51d412ff9",
+            "marketName": "百度",
+            "suggestIconList": [
+                "AppStore/01ccaa48140a94cd92316391358fe67e2f2d4c87a",
+                "AppStore/0ea8654f00c3e18f2b57a2e6d4ed5cdea4c4217bb",
+                "AppStore/0acca4f8100298cdd7316d9130cfe97821442756a"
+            ],
+            "type": "bd"
+        },
+        {
+            "icon": "AppStore/a7882309-6de2-4976-b41a-2415e2e4b1bb",
+            "marketName": "豌豆荚",
+            "suggestIconList": [
+                "AppStore/01ccaa48140a94cd92316391358fe67e2f2d4c87a",
+                "AppStore/09201544ba6cc2f62d3dce5c67a8e78c07c43ef37",
+                "AppStore/0ea8654f00c3e18f2b57a2e6d4ed5cdea4c4217bb"
+            ],
+            "type": "wdj"
+        }
+    ],
+    "thumbnail": "http://t1.market.xiaomi.com/thumbnail/"
+}

@@ -1,0 +1,1018 @@
+{
+  "bgColor": "",
+  "categoryIndex": 0,
+  "hasMore": false,
+  "host": "http://b2.market.mi-img.com/download/",
+  "list": [
+    {
+      "data": {
+        "filterKey": "supportTopListV2",
+        "uid": "cbf2a",
+        "thumbnail": "http://t1.market.xiaomi.com/thumbnail/",
+        "listBgUrl": "AppStore/0ee5a1533e4ed4b9a3b159c905c3b9f2a39524eed",
+        "host": "http://b1.market.xiaomi.com/download/",
+        "hasMore": false,
+        "rankList": [
+          {
+            "rankName": "下载榜",
+            "rankBg": "AppStore/0781b6421a2e6419d14b8ff243d55e12ece077908",
+            "rankIcon": "AppStore/0781b6521a216419514b8df243655e17ece0b7908",
+            "btnColor": "#6183c2",
+            "link": "xxx",
+            "listApp": [
+              {
+                "adType": 2,
+                "ads": 1,
+                "adsTagId": "1.24.4.53",
+                "apkSize": 63994891,
+                "appId": 30202,
+                "appTags": [
+                  {
+                    "link": "sametag/448",
+                    "tagId": 448,
+                    "tagName": "FM"
+                  },
+                  {
+                    "link": "sametag/1408",
+                    "tagId": 1408,
+                    "tagName": "有声听书"
+                  },
+                  {
+                    "link": "sametag/449",
+                    "tagId": 449,
+                    "tagName": "收音机"
+                  },
+                  {
+                    "link": "sametag/19",
+                    "tagId": 19,
+                    "tagName": "有声"
+                  },
+                  {
+                    "link": "sametag/1419",
+                    "tagId": 1419,
+                    "tagName": "小爱同学"
+                  },
+                  {
+                    "link": "sametag/445",
+                    "tagId": 445,
+                    "tagName": "听书"
+                  },
+                  {
+                    "link": "sametag/446",
+                    "tagId": 446,
+                    "tagName": "电台"
+                  },
+                  {
+                    "link": "sametag/255",
+                    "tagId": 255,
+                    "tagName": "帐号通"
+                  },
+                  {
+                    "link": "sametag/447",
+                    "tagId": 447,
+                    "tagName": "有声小说"
+                  }
+                ],
+                "appTypehood": "app",
+                "appendSize": 0,
+                "briefShow": "听书听课听段子，想听啥都有",
+                "briefUseIntro": false,
+                "closeTestEndTime": 0,
+                "closeTestStartTime": 0,
+                "comeFrom": "CPD",
+                "commentScore": 4.9,
+                "displayName": "喜马拉雅",
+                "downloadCount": 3570212954,
+                "experimentalId": "999^18^314162,188^20^1686,188^20^1686",
+                "ext": "hmb_tJsoUCmS6WJZDunWfotluMD3kN01cLV9BrxMkj-yrNEuf3jClNpxuE3UZy-1GWmox33qvFu2qIw-8xXVVL1VGc7erMWjxiyuZ6tz84y0dUJQgYkgHIyxWJM7hN9TIqBEzrlkzB4KY1y7zaoleqY2Hf8I-hcHUyIzXAcDkWhk-o-1cWEnVj_yJPROXXRArv78P_39NO5wZv-jqfmQ6WZY5E3Osu62iddCGCsANRrKMMgXsIulTsdt3xVSrL0k5tIaZ_KKID-3CaSbf8sP2z11nviAYY49Ln24WKW5JfAdN3Ly2zW82dXtmn1pXq0DiFEvb2aNsW3bfp8Bo67hEI-pSMUIDcLMv_ryHKO6hEuM86TaDK4SiLLeoe90aMe9jtYTIdFUWhVxIbTadY1eB4Ojfjrywphkd8htgx1UAs28w0Z9zNsiU49dzLioT0mI2xNzOfZxDz7iYYiPYQWdTcFEXXnOg8MxHtN9mlVm_JgbY4MnM9kwzOYOCesbDOeHAk6UU6sdHLQe4Ss",
+                "extraData": {},
+                "icon": "AppStore/07b2d59dc627fbc699f0eaf5b7c9bfbf885417a51",
+                "iconTagType": 0,
+                "id": 30202,
+                "isSafe": false,
+                "level1CategoryId": 27,
+                "level1CategoryName": "影音视听",
+                "level2CategoryId": 135,
+                "level2CategoryName": "电台",
+                "needFilterInstalled": false,
+                "packageName": "com.ximalaya.ting.android",
+                "position": 16,
+                "preDownloadTime": 1574922199621,
+                "publishType": 0,
+                "publisherName": "喜大(上海)网络科技有限公司",
+                "rId": 0,
+                "ratingScore": 5.0,
+                "releaseKeyHash": "dfc5b84b2f327c5190a505ccf94b90ae",
+                "reportParams": {
+                  "_ir_": "dFTJJpZXTsx6OZRqk9l5gOR2yHDLBU77g_R991XShIM"
+                },
+                "richMedia": false,
+                "screenshot": "AppStore/09c4ef5358b2848c92def677fd90d7e14c3772706,AppStore/0b169344a70ed4f2525621cc87340b6e5e4fb9172,AppStore/05c414d45598c1b2609bafb91e7a63235324335d7,AppStore/0227c4749521dad8bb7a1742f546ca85471426287,AppStore/041154803fe138cea77156d319671017323430956",
+                "showBrief": false,
+                "showVideoTab": false,
+                "source": "",
+                "subscribeEndTime": 0,
+                "subscribeNum": 0,
+                "subscribeOnlineTime": 0,
+                "subscribeOnlineTimeType": 0,
+                "subscribeState": 0,
+                "suitableType": 0,
+                "updateTime": 1574921348617,
+                "versionCode": 264,
+                "versionName": "6.6.36.3",
+                "videoId": 0
+              },
+              {
+                "adType": 0,
+                "ads": 0,
+                "apkSize": 28035232,
+                "appId": 118,
+                "appTags": [
+                  {
+                    "link": "sametag/1045",
+                    "tagId": 1045,
+                    "tagName": "视频播放器"
+                  },
+                  {
+                    "link": "sametag/6",
+                    "tagId": 6,
+                    "tagName": "电视剧"
+                  },
+                  {
+                    "link": "sametag/1046",
+                    "tagId": 1046,
+                    "tagName": "网络视频"
+                  },
+                  {
+                    "link": "sametag/119",
+                    "tagId": 119,
+                    "tagName": "电影"
+                  },
+                  {
+                    "link": "sametag/909",
+                    "tagId": 909,
+                    "tagName": "在线视频"
+                  },
+                  {
+                    "link": "sametag/1039",
+                    "tagId": 1039,
+                    "tagName": "网络电视"
+                  }
+                ],
+                "appTypehood": "app",
+                "appendSize": 0,
+                "briefShow": "新人免费领会员，安装包小不卡顿",
+                "briefUseIntro": false,
+                "closeTestEndTime": 0,
+                "closeTestStartTime": 0,
+                "commentScore": 4.7,
+                "displayName": "爱奇艺极速版",
+                "downloadCount": 567299910,
+                "extraData": {},
+                "hdIcon": {
+                  "main": "AppStore/0d41b75bcf4a740ba0be6c8a0964a8112a81d3e29"
+                },
+                "icon": "AppStore/0384ab40dc3134b8221185b788d6ed8cc975b6f2c",
+                "iconTagType": 0,
+                "id": 118,
+                "isSafe": false,
+                "level1CategoryId": 27,
+                "level1CategoryName": "影音视听",
+                "level2CategoryId": 132,
+                "level2CategoryName": "视频",
+                "needFilterInstalled": false,
+                "packageName": "tv.pps.mobile",
+                "position": 17,
+                "preDownloadTime": 1575527290999,
+                "publishType": 0,
+                "publisherName": "北京爱奇艺科技有限公司",
+                "rId": 0,
+                "ratingScore": 4.5,
+                "releaseKeyHash": "fe0b06da44a18f6cf5ed4800f6fe2997",
+                "reportParams": {
+                  "_ir_": "RmNxBAnaPv57XtaqA8HbXkhNRvAIqobel39U-6M_new"
+                },
+                "richMedia": false,
+                "screenshot": "AppStore/01d43d4bb0da84d8811dda09568030763ab27c5ef,AppStore/0cfe04f6dc66db1d2e9abe36b166a776ca0406530,AppStore/0250a4b345409c266bf61c87cb13dbb2e2142780b,AppStore/05c90e52b10f645b117e951f138b7c1811f538798,AppStore/0850ab4341459426c2f61587c8c3d0baeb0611272",
+                "showBrief": false,
+                "showVideoTab": false,
+                "subscribeEndTime": 0,
+                "subscribeNum": 0,
+                "subscribeOnlineTime": 0,
+                "subscribeOnlineTimeType": 0,
+                "subscribeState": 0,
+                "suitableType": 0,
+                "updateTime": 1575524858505,
+                "versionCode": 81057,
+                "versionName": "9.11.1",
+                "videoId": 0
+              },
+              {
+                "adType": 0,
+                "ads": 0,
+                "apkSize": 22382132,
+                "appId": 821194,
+                "appTags": [
+                  {
+                    "link": "sametag/448",
+                    "tagId": 448,
+                    "tagName": "FM"
+                  },
+                  {
+                    "link": "sametag/1408",
+                    "tagId": 1408,
+                    "tagName": "有声听书"
+                  },
+                  {
+                    "link": "sametag/449",
+                    "tagId": 449,
+                    "tagName": "收音机"
+                  },
+                  {
+                    "link": "sametag/19",
+                    "tagId": 19,
+                    "tagName": "有声"
+                  },
+                  {
+                    "link": "sametag/446",
+                    "tagId": 446,
+                    "tagName": "电台"
+                  }
+                ],
+                "appTypehood": "app",
+                "appendSize": 0,
+                "briefShow": "【小米出品，电台大全】听书听相声听广播",
+                "briefUseIntro": false,
+                "closeTestEndTime": 0,
+                "closeTestStartTime": 0,
+                "commentScore": 3.7,
+                "displayName": "小米收音机",
+                "downloadCount": 551652342,
+                "dynamicIcon": "AppStore/0e9484583f5c44ab01a107f5e757a54ba5150e7da",
+                "extraData": {},
+                "icon": "AppStore/068b54ede1f3061fa22533738e16f9c3936401a26",
+                "iconTagType": 0,
+                "id": 821194,
+                "isSafe": false,
+                "level1CategoryId": 27,
+                "level1CategoryName": "影音视听",
+                "level2CategoryId": 135,
+                "level2CategoryName": "电台",
+                "needFilterInstalled": false,
+                "packageName": "com.miui.fm",
+                "position": 18,
+                "preDownloadTime": 1575453227874,
+                "publishType": 0,
+                "publisherName": "miui_media",
+                "rId": 0,
+                "ratingScore": 3.5,
+                "releaseKeyHash": "88daa889de21a80bca64464243c9ede6",
+                "reportParams": {
+                  "ext_apm_dynamicIconSid": "default",
+                  "_ir_": "JNhjaUSmuMb_vCVnkpEgRYEdy10OLbpJEuvtpbFIybU"
+                },
+                "richMedia": false,
+                "screenshot": "AppStore/01f1dd488c3b3444c0543f9bc32bcf8286c38c677,AppStore/0f39a356fe5624f7b019af450769e16aa9b88a965,AppStore/003a3517bd2c4f0523a6a2ecb36170c9761428c83,AppStore/0fd42524af17761506e291051056c0527d443773d",
+                "showBrief": false,
+                "showVideoTab": false,
+                "subscribeEndTime": 0,
+                "subscribeNum": 0,
+                "subscribeOnlineTime": 0,
+                "subscribeOnlineTimeType": 0,
+                "subscribeState": 0,
+                "suitableType": 0,
+                "updateTime": 1575452515416,
+                "versionCode": 200,
+                "versionName": "1.0.200",
+                "videoId": 0
+              },
+              {
+                "adType": 0,
+                "ads": 0,
+                "apkSize": 28035232,
+                "appId": 118,
+                "appTags": [
+                  {
+                    "link": "sametag/1045",
+                    "tagId": 1045,
+                    "tagName": "视频播放器"
+                  },
+                  {
+                    "link": "sametag/6",
+                    "tagId": 6,
+                    "tagName": "电视剧"
+                  },
+                  {
+                    "link": "sametag/1046",
+                    "tagId": 1046,
+                    "tagName": "网络视频"
+                  },
+                  {
+                    "link": "sametag/119",
+                    "tagId": 119,
+                    "tagName": "电影"
+                  },
+                  {
+                    "link": "sametag/909",
+                    "tagId": 909,
+                    "tagName": "在线视频"
+                  },
+                  {
+                    "link": "sametag/1039",
+                    "tagId": 1039,
+                    "tagName": "网络电视"
+                  }
+                ],
+                "appTypehood": "app",
+                "appendSize": 0,
+                "briefShow": "新人免费领会员，安装包小不卡顿",
+                "briefUseIntro": false,
+                "closeTestEndTime": 0,
+                "closeTestStartTime": 0,
+                "commentScore": 4.7,
+                "displayName": "爱奇艺极速版",
+                "downloadCount": 567299910,
+                "extraData": {},
+                "hdIcon": {
+                  "main": "AppStore/0d41b75bcf4a740ba0be6c8a0964a8112a81d3e29"
+                },
+                "icon": "AppStore/0384ab40dc3134b8221185b788d6ed8cc975b6f2c",
+                "iconTagType": 0,
+                "id": 118,
+                "isSafe": false,
+                "level1CategoryId": 27,
+                "level1CategoryName": "影音视听",
+                "level2CategoryId": 132,
+                "level2CategoryName": "视频",
+                "needFilterInstalled": false,
+                "packageName": "tv.pps.mobile",
+                "position": 17,
+                "preDownloadTime": 1575527290999,
+                "publishType": 0,
+                "publisherName": "北京爱奇艺科技有限公司",
+                "rId": 0,
+                "ratingScore": 4.5,
+                "releaseKeyHash": "fe0b06da44a18f6cf5ed4800f6fe2997",
+                "reportParams": {
+                  "_ir_": "RmNxBAnaPv57XtaqA8HbXkhNRvAIqobel39U-6M_new"
+                },
+                "richMedia": false,
+                "screenshot": "AppStore/01d43d4bb0da84d8811dda09568030763ab27c5ef,AppStore/0cfe04f6dc66db1d2e9abe36b166a776ca0406530,AppStore/0250a4b345409c266bf61c87cb13dbb2e2142780b,AppStore/05c90e52b10f645b117e951f138b7c1811f538798,AppStore/0850ab4341459426c2f61587c8c3d0baeb0611272",
+                "showBrief": false,
+                "showVideoTab": false,
+                "subscribeEndTime": 0,
+                "subscribeNum": 0,
+                "subscribeOnlineTime": 0,
+                "subscribeOnlineTimeType": 0,
+                "subscribeState": 0,
+                "suitableType": 0,
+                "updateTime": 1575524858505,
+                "versionCode": 81057,
+                "versionName": "9.11.1",
+                "videoId": 0
+              },
+              {
+                "adType": 0,
+                "ads": 0,
+                "apkSize": 22382132,
+                "appId": 821194,
+                "appTags": [
+                  {
+                    "link": "sametag/448",
+                    "tagId": 448,
+                    "tagName": "FM"
+                  },
+                  {
+                    "link": "sametag/1408",
+                    "tagId": 1408,
+                    "tagName": "有声听书"
+                  },
+                  {
+                    "link": "sametag/449",
+                    "tagId": 449,
+                    "tagName": "收音机"
+                  },
+                  {
+                    "link": "sametag/19",
+                    "tagId": 19,
+                    "tagName": "有声"
+                  },
+                  {
+                    "link": "sametag/446",
+                    "tagId": 446,
+                    "tagName": "电台"
+                  }
+                ],
+                "appTypehood": "app",
+                "appendSize": 0,
+                "briefShow": "【小米出品，电台大全】听书听相声听广播",
+                "briefUseIntro": false,
+                "closeTestEndTime": 0,
+                "closeTestStartTime": 0,
+                "commentScore": 3.7,
+                "displayName": "小米收音机",
+                "downloadCount": 551652342,
+                "dynamicIcon": "AppStore/0e9484583f5c44ab01a107f5e757a54ba5150e7da",
+                "extraData": {},
+                "icon": "AppStore/068b54ede1f3061fa22533738e16f9c3936401a26",
+                "iconTagType": 0,
+                "id": 821194,
+                "isSafe": false,
+                "level1CategoryId": 27,
+                "level1CategoryName": "影音视听",
+                "level2CategoryId": 135,
+                "level2CategoryName": "电台",
+                "needFilterInstalled": false,
+                "packageName": "com.miui.fm",
+                "position": 18,
+                "preDownloadTime": 1575453227874,
+                "publishType": 0,
+                "publisherName": "miui_media",
+                "rId": 0,
+                "ratingScore": 3.5,
+                "releaseKeyHash": "88daa889de21a80bca64464243c9ede6",
+                "reportParams": {
+                  "ext_apm_dynamicIconSid": "default",
+                  "_ir_": "JNhjaUSmuMb_vCVnkpEgRYEdy10OLbpJEuvtpbFIybU"
+                },
+                "richMedia": false,
+                "screenshot": "AppStore/01f1dd488c3b3444c0543f9bc32bcf8286c38c677,AppStore/0f39a356fe5624f7b019af450769e16aa9b88a965,AppStore/003a3517bd2c4f0523a6a2ecb36170c9761428c83,AppStore/0fd42524af17761506e291051056c0527d443773d",
+                "showBrief": false,
+                "showVideoTab": false,
+                "subscribeEndTime": 0,
+                "subscribeNum": 0,
+                "subscribeOnlineTime": 0,
+                "subscribeOnlineTimeType": 0,
+                "subscribeState": 0,
+                "suitableType": 0,
+                "updateTime": 1575452515416,
+                "versionCode": 200,
+                "versionName": "1.0.200",
+                "videoId": 0
+              }
+            ]
+          },
+          {
+            "rankName": "下载榜",
+            "rankBg": "AppStore/0781b6421a2e6419d14b8ff243d55e12ece077908",
+            "rankIcon": "AppStore/0781b6521a216419514b8df243655e17ece0b7908",
+            "btnColor": "#6183c2",
+            "link": "xxx",
+            "listApp": [
+              {
+                "adType": 2,
+                "ads": 1,
+                "adsTagId": "1.24.4.53",
+                "apkSize": 63994891,
+                "appId": 30202,
+                "appTags": [
+                  {
+                    "link": "sametag/448",
+                    "tagId": 448,
+                    "tagName": "FM"
+                  },
+                  {
+                    "link": "sametag/1408",
+                    "tagId": 1408,
+                    "tagName": "有声听书"
+                  },
+                  {
+                    "link": "sametag/449",
+                    "tagId": 449,
+                    "tagName": "收音机"
+                  },
+                  {
+                    "link": "sametag/19",
+                    "tagId": 19,
+                    "tagName": "有声"
+                  },
+                  {
+                    "link": "sametag/1419",
+                    "tagId": 1419,
+                    "tagName": "小爱同学"
+                  },
+                  {
+                    "link": "sametag/445",
+                    "tagId": 445,
+                    "tagName": "听书"
+                  },
+                  {
+                    "link": "sametag/446",
+                    "tagId": 446,
+                    "tagName": "电台"
+                  },
+                  {
+                    "link": "sametag/255",
+                    "tagId": 255,
+                    "tagName": "帐号通"
+                  },
+                  {
+                    "link": "sametag/447",
+                    "tagId": 447,
+                    "tagName": "有声小说"
+                  }
+                ],
+                "appTypehood": "app",
+                "appendSize": 0,
+                "briefShow": "听书听课听段子，想听啥都有",
+                "briefUseIntro": false,
+                "closeTestEndTime": 0,
+                "closeTestStartTime": 0,
+                "comeFrom": "CPD",
+                "commentScore": 4.9,
+                "displayName": "喜马拉雅",
+                "downloadCount": 3570212954,
+                "experimentalId": "999^18^314162,188^20^1686,188^20^1686",
+                "ext": "hmb_tJsoUCmS6WJZDunWfotluMD3kN01cLV9BrxMkj-yrNEuf3jClNpxuE3UZy-1GWmox33qvFu2qIw-8xXVVL1VGc7erMWjxiyuZ6tz84y0dUJQgYkgHIyxWJM7hN9TIqBEzrlkzB4KY1y7zaoleqY2Hf8I-hcHUyIzXAcDkWhk-o-1cWEnVj_yJPROXXRArv78P_39NO5wZv-jqfmQ6WZY5E3Osu62iddCGCsANRrKMMgXsIulTsdt3xVSrL0k5tIaZ_KKID-3CaSbf8sP2z11nviAYY49Ln24WKW5JfAdN3Ly2zW82dXtmn1pXq0DiFEvb2aNsW3bfp8Bo67hEI-pSMUIDcLMv_ryHKO6hEuM86TaDK4SiLLeoe90aMe9jtYTIdFUWhVxIbTadY1eB4Ojfjrywphkd8htgx1UAs28w0Z9zNsiU49dzLioT0mI2xNzOfZxDz7iYYiPYQWdTcFEXXnOg8MxHtN9mlVm_JgbY4MnM9kwzOYOCesbDOeHAk6UU6sdHLQe4Ss",
+                "extraData": {},
+                "icon": "AppStore/07b2d59dc627fbc699f0eaf5b7c9bfbf885417a51",
+                "iconTagType": 0,
+                "id": 30202,
+                "isSafe": false,
+                "level1CategoryId": 27,
+                "level1CategoryName": "影音视听",
+                "level2CategoryId": 135,
+                "level2CategoryName": "电台",
+                "needFilterInstalled": false,
+                "packageName": "com.ximalaya.ting.android",
+                "position": 16,
+                "preDownloadTime": 1574922199621,
+                "publishType": 0,
+                "publisherName": "喜大(上海)网络科技有限公司",
+                "rId": 0,
+                "ratingScore": 5.0,
+                "releaseKeyHash": "dfc5b84b2f327c5190a505ccf94b90ae",
+                "reportParams": {
+                  "_ir_": "dFTJJpZXTsx6OZRqk9l5gOR2yHDLBU77g_R991XShIM"
+                },
+                "richMedia": false,
+                "screenshot": "AppStore/09c4ef5358b2848c92def677fd90d7e14c3772706,AppStore/0b169344a70ed4f2525621cc87340b6e5e4fb9172,AppStore/05c414d45598c1b2609bafb91e7a63235324335d7,AppStore/0227c4749521dad8bb7a1742f546ca85471426287,AppStore/041154803fe138cea77156d319671017323430956",
+                "showBrief": false,
+                "showVideoTab": false,
+                "source": "",
+                "subscribeEndTime": 0,
+                "subscribeNum": 0,
+                "subscribeOnlineTime": 0,
+                "subscribeOnlineTimeType": 0,
+                "subscribeState": 0,
+                "suitableType": 0,
+                "updateTime": 1574921348617,
+                "versionCode": 264,
+                "versionName": "6.6.36.3",
+                "videoId": 0
+              },
+              {
+                "adType": 0,
+                "ads": 0,
+                "apkSize": 28035232,
+                "appId": 118,
+                "appTags": [
+                  {
+                    "link": "sametag/1045",
+                    "tagId": 1045,
+                    "tagName": "视频播放器"
+                  },
+                  {
+                    "link": "sametag/6",
+                    "tagId": 6,
+                    "tagName": "电视剧"
+                  },
+                  {
+                    "link": "sametag/1046",
+                    "tagId": 1046,
+                    "tagName": "网络视频"
+                  },
+                  {
+                    "link": "sametag/119",
+                    "tagId": 119,
+                    "tagName": "电影"
+                  },
+                  {
+                    "link": "sametag/909",
+                    "tagId": 909,
+                    "tagName": "在线视频"
+                  },
+                  {
+                    "link": "sametag/1039",
+                    "tagId": 1039,
+                    "tagName": "网络电视"
+                  }
+                ],
+                "appTypehood": "app",
+                "appendSize": 0,
+                "briefShow": "新人免费领会员，安装包小不卡顿",
+                "briefUseIntro": false,
+                "closeTestEndTime": 0,
+                "closeTestStartTime": 0,
+                "commentScore": 4.7,
+                "displayName": "爱奇艺极速版",
+                "downloadCount": 567299910,
+                "extraData": {},
+                "hdIcon": {
+                  "main": "AppStore/0d41b75bcf4a740ba0be6c8a0964a8112a81d3e29"
+                },
+                "icon": "AppStore/0384ab40dc3134b8221185b788d6ed8cc975b6f2c",
+                "iconTagType": 0,
+                "id": 118,
+                "isSafe": false,
+                "level1CategoryId": 27,
+                "level1CategoryName": "影音视听",
+                "level2CategoryId": 132,
+                "level2CategoryName": "视频",
+                "needFilterInstalled": false,
+                "packageName": "tv.pps.mobile",
+                "position": 17,
+                "preDownloadTime": 1575527290999,
+                "publishType": 0,
+                "publisherName": "北京爱奇艺科技有限公司",
+                "rId": 0,
+                "ratingScore": 4.5,
+                "releaseKeyHash": "fe0b06da44a18f6cf5ed4800f6fe2997",
+                "reportParams": {
+                  "_ir_": "RmNxBAnaPv57XtaqA8HbXkhNRvAIqobel39U-6M_new"
+                },
+                "richMedia": false,
+                "screenshot": "AppStore/01d43d4bb0da84d8811dda09568030763ab27c5ef,AppStore/0cfe04f6dc66db1d2e9abe36b166a776ca0406530,AppStore/0250a4b345409c266bf61c87cb13dbb2e2142780b,AppStore/05c90e52b10f645b117e951f138b7c1811f538798,AppStore/0850ab4341459426c2f61587c8c3d0baeb0611272",
+                "showBrief": false,
+                "showVideoTab": false,
+                "subscribeEndTime": 0,
+                "subscribeNum": 0,
+                "subscribeOnlineTime": 0,
+                "subscribeOnlineTimeType": 0,
+                "subscribeState": 0,
+                "suitableType": 0,
+                "updateTime": 1575524858505,
+                "versionCode": 81057,
+                "versionName": "9.11.1",
+                "videoId": 0
+              },
+              {
+                "adType": 0,
+                "ads": 0,
+                "apkSize": 22382132,
+                "appId": 821194,
+                "appTags": [
+                  {
+                    "link": "sametag/448",
+                    "tagId": 448,
+                    "tagName": "FM"
+                  },
+                  {
+                    "link": "sametag/1408",
+                    "tagId": 1408,
+                    "tagName": "有声听书"
+                  },
+                  {
+                    "link": "sametag/449",
+                    "tagId": 449,
+                    "tagName": "收音机"
+                  },
+                  {
+                    "link": "sametag/19",
+                    "tagId": 19,
+                    "tagName": "有声"
+                  },
+                  {
+                    "link": "sametag/446",
+                    "tagId": 446,
+                    "tagName": "电台"
+                  }
+                ],
+                "appTypehood": "app",
+                "appendSize": 0,
+                "briefShow": "【小米出品，电台大全】听书听相声听广播",
+                "briefUseIntro": false,
+                "closeTestEndTime": 0,
+                "closeTestStartTime": 0,
+                "commentScore": 3.7,
+                "displayName": "小米收音机",
+                "downloadCount": 551652342,
+                "dynamicIcon": "AppStore/0e9484583f5c44ab01a107f5e757a54ba5150e7da",
+                "extraData": {},
+                "icon": "AppStore/068b54ede1f3061fa22533738e16f9c3936401a26",
+                "iconTagType": 0,
+                "id": 821194,
+                "isSafe": false,
+                "level1CategoryId": 27,
+                "level1CategoryName": "影音视听",
+                "level2CategoryId": 135,
+                "level2CategoryName": "电台",
+                "needFilterInstalled": false,
+                "packageName": "com.miui.fm",
+                "position": 18,
+                "preDownloadTime": 1575453227874,
+                "publishType": 0,
+                "publisherName": "miui_media",
+                "rId": 0,
+                "ratingScore": 3.5,
+                "releaseKeyHash": "88daa889de21a80bca64464243c9ede6",
+                "reportParams": {
+                  "ext_apm_dynamicIconSid": "default",
+                  "_ir_": "JNhjaUSmuMb_vCVnkpEgRYEdy10OLbpJEuvtpbFIybU"
+                },
+                "richMedia": false,
+                "screenshot": "AppStore/01f1dd488c3b3444c0543f9bc32bcf8286c38c677,AppStore/0f39a356fe5624f7b019af450769e16aa9b88a965,AppStore/003a3517bd2c4f0523a6a2ecb36170c9761428c83,AppStore/0fd42524af17761506e291051056c0527d443773d",
+                "showBrief": false,
+                "showVideoTab": false,
+                "subscribeEndTime": 0,
+                "subscribeNum": 0,
+                "subscribeOnlineTime": 0,
+                "subscribeOnlineTimeType": 0,
+                "subscribeState": 0,
+                "suitableType": 0,
+                "updateTime": 1575452515416,
+                "versionCode": 200,
+                "versionName": "1.0.200",
+                "videoId": 0
+              }
+            ]
+          },
+          {
+            "rankName": "下载榜",
+            "rankBg": "AppStore/0781b6421a2e6419d14b8ff243d55e12ece077908",
+            "rankIcon": "AppStore/0781b6521a216419514b8df243655e17ece0b7908",
+            "btnColor": "#6183c2",
+            "link": "xxx",
+            "listApp": [
+              {
+                "adType": 2,
+                "ads": 1,
+                "adsTagId": "1.24.4.53",
+                "apkSize": 63994891,
+                "appId": 30202,
+                "appTags": [
+                  {
+                    "link": "sametag/448",
+                    "tagId": 448,
+                    "tagName": "FM"
+                  },
+                  {
+                    "link": "sametag/1408",
+                    "tagId": 1408,
+                    "tagName": "有声听书"
+                  },
+                  {
+                    "link": "sametag/449",
+                    "tagId": 449,
+                    "tagName": "收音机"
+                  },
+                  {
+                    "link": "sametag/19",
+                    "tagId": 19,
+                    "tagName": "有声"
+                  },
+                  {
+                    "link": "sametag/1419",
+                    "tagId": 1419,
+                    "tagName": "小爱同学"
+                  },
+                  {
+                    "link": "sametag/445",
+                    "tagId": 445,
+                    "tagName": "听书"
+                  },
+                  {
+                    "link": "sametag/446",
+                    "tagId": 446,
+                    "tagName": "电台"
+                  },
+                  {
+                    "link": "sametag/255",
+                    "tagId": 255,
+                    "tagName": "帐号通"
+                  },
+                  {
+                    "link": "sametag/447",
+                    "tagId": 447,
+                    "tagName": "有声小说"
+                  }
+                ],
+                "appTypehood": "app",
+                "appendSize": 0,
+                "briefShow": "听书听课听段子，想听啥都有",
+                "briefUseIntro": false,
+                "closeTestEndTime": 0,
+                "closeTestStartTime": 0,
+                "comeFrom": "CPD",
+                "commentScore": 4.9,
+                "displayName": "喜马拉雅",
+                "downloadCount": 3570212954,
+                "experimentalId": "999^18^314162,188^20^1686,188^20^1686",
+                "ext": "hmb_tJsoUCmS6WJZDunWfotluMD3kN01cLV9BrxMkj-yrNEuf3jClNpxuE3UZy-1GWmox33qvFu2qIw-8xXVVL1VGc7erMWjxiyuZ6tz84y0dUJQgYkgHIyxWJM7hN9TIqBEzrlkzB4KY1y7zaoleqY2Hf8I-hcHUyIzXAcDkWhk-o-1cWEnVj_yJPROXXRArv78P_39NO5wZv-jqfmQ6WZY5E3Osu62iddCGCsANRrKMMgXsIulTsdt3xVSrL0k5tIaZ_KKID-3CaSbf8sP2z11nviAYY49Ln24WKW5JfAdN3Ly2zW82dXtmn1pXq0DiFEvb2aNsW3bfp8Bo67hEI-pSMUIDcLMv_ryHKO6hEuM86TaDK4SiLLeoe90aMe9jtYTIdFUWhVxIbTadY1eB4Ojfjrywphkd8htgx1UAs28w0Z9zNsiU49dzLioT0mI2xNzOfZxDz7iYYiPYQWdTcFEXXnOg8MxHtN9mlVm_JgbY4MnM9kwzOYOCesbDOeHAk6UU6sdHLQe4Ss",
+                "extraData": {},
+                "icon": "AppStore/07b2d59dc627fbc699f0eaf5b7c9bfbf885417a51",
+                "iconTagType": 0,
+                "id": 30202,
+                "isSafe": false,
+                "level1CategoryId": 27,
+                "level1CategoryName": "影音视听",
+                "level2CategoryId": 135,
+                "level2CategoryName": "电台",
+                "needFilterInstalled": false,
+                "packageName": "com.ximalaya.ting.android",
+                "position": 16,
+                "preDownloadTime": 1574922199621,
+                "publishType": 0,
+                "publisherName": "喜大(上海)网络科技有限公司",
+                "rId": 0,
+                "ratingScore": 5.0,
+                "releaseKeyHash": "dfc5b84b2f327c5190a505ccf94b90ae",
+                "reportParams": {
+                  "_ir_": "dFTJJpZXTsx6OZRqk9l5gOR2yHDLBU77g_R991XShIM"
+                },
+                "richMedia": false,
+                "screenshot": "AppStore/09c4ef5358b2848c92def677fd90d7e14c3772706,AppStore/0b169344a70ed4f2525621cc87340b6e5e4fb9172,AppStore/05c414d45598c1b2609bafb91e7a63235324335d7,AppStore/0227c4749521dad8bb7a1742f546ca85471426287,AppStore/041154803fe138cea77156d319671017323430956",
+                "showBrief": false,
+                "showVideoTab": false,
+                "source": "",
+                "subscribeEndTime": 0,
+                "subscribeNum": 0,
+                "subscribeOnlineTime": 0,
+                "subscribeOnlineTimeType": 0,
+                "subscribeState": 0,
+                "suitableType": 0,
+                "updateTime": 1574921348617,
+                "versionCode": 264,
+                "versionName": "6.6.36.3",
+                "videoId": 0
+              },
+              {
+                "adType": 0,
+                "ads": 0,
+                "apkSize": 28035232,
+                "appId": 118,
+                "appTags": [
+                  {
+                    "link": "sametag/1045",
+                    "tagId": 1045,
+                    "tagName": "视频播放器"
+                  },
+                  {
+                    "link": "sametag/6",
+                    "tagId": 6,
+                    "tagName": "电视剧"
+                  },
+                  {
+                    "link": "sametag/1046",
+                    "tagId": 1046,
+                    "tagName": "网络视频"
+                  },
+                  {
+                    "link": "sametag/119",
+                    "tagId": 119,
+                    "tagName": "电影"
+                  },
+                  {
+                    "link": "sametag/909",
+                    "tagId": 909,
+                    "tagName": "在线视频"
+                  },
+                  {
+                    "link": "sametag/1039",
+                    "tagId": 1039,
+                    "tagName": "网络电视"
+                  }
+                ],
+                "appTypehood": "app",
+                "appendSize": 0,
+                "briefShow": "新人免费领会员，安装包小不卡顿",
+                "briefUseIntro": false,
+                "closeTestEndTime": 0,
+                "closeTestStartTime": 0,
+                "commentScore": 4.7,
+                "displayName": "爱奇艺极速版",
+                "downloadCount": 567299910,
+                "extraData": {},
+                "hdIcon": {
+                  "main": "AppStore/0d41b75bcf4a740ba0be6c8a0964a8112a81d3e29"
+                },
+                "icon": "AppStore/0384ab40dc3134b8221185b788d6ed8cc975b6f2c",
+                "iconTagType": 0,
+                "id": 118,
+                "isSafe": false,
+                "level1CategoryId": 27,
+                "level1CategoryName": "影音视听",
+                "level2CategoryId": 132,
+                "level2CategoryName": "视频",
+                "needFilterInstalled": false,
+                "packageName": "tv.pps.mobile",
+                "position": 17,
+                "preDownloadTime": 1575527290999,
+                "publishType": 0,
+                "publisherName": "北京爱奇艺科技有限公司",
+                "rId": 0,
+                "ratingScore": 4.5,
+                "releaseKeyHash": "fe0b06da44a18f6cf5ed4800f6fe2997",
+                "reportParams": {
+                  "_ir_": "RmNxBAnaPv57XtaqA8HbXkhNRvAIqobel39U-6M_new"
+                },
+                "richMedia": false,
+                "screenshot": "AppStore/01d43d4bb0da84d8811dda09568030763ab27c5ef,AppStore/0cfe04f6dc66db1d2e9abe36b166a776ca0406530,AppStore/0250a4b345409c266bf61c87cb13dbb2e2142780b,AppStore/05c90e52b10f645b117e951f138b7c1811f538798,AppStore/0850ab4341459426c2f61587c8c3d0baeb0611272",
+                "showBrief": false,
+                "showVideoTab": false,
+                "subscribeEndTime": 0,
+                "subscribeNum": 0,
+                "subscribeOnlineTime": 0,
+                "subscribeOnlineTimeType": 0,
+                "subscribeState": 0,
+                "suitableType": 0,
+                "updateTime": 1575524858505,
+                "versionCode": 81057,
+                "versionName": "9.11.1",
+                "videoId": 0
+              },
+              {
+                "adType": 0,
+                "ads": 0,
+                "apkSize": 22382132,
+                "appId": 821194,
+                "appTags": [
+                  {
+                    "link": "sametag/448",
+                    "tagId": 448,
+                    "tagName": "FM"
+                  },
+                  {
+                    "link": "sametag/1408",
+                    "tagId": 1408,
+                    "tagName": "有声听书"
+                  },
+                  {
+                    "link": "sametag/449",
+                    "tagId": 449,
+                    "tagName": "收音机"
+                  },
+                  {
+                    "link": "sametag/19",
+                    "tagId": 19,
+                    "tagName": "有声"
+                  },
+                  {
+                    "link": "sametag/446",
+                    "tagId": 446,
+                    "tagName": "电台"
+                  }
+                ],
+                "appTypehood": "app",
+                "appendSize": 0,
+                "briefShow": "【小米出品，电台大全】听书听相声听广播",
+                "briefUseIntro": false,
+                "closeTestEndTime": 0,
+                "closeTestStartTime": 0,
+                "commentScore": 3.7,
+                "displayName": "小米收音机",
+                "downloadCount": 551652342,
+                "dynamicIcon": "AppStore/0e9484583f5c44ab01a107f5e757a54ba5150e7da",
+                "extraData": {},
+                "icon": "AppStore/068b54ede1f3061fa22533738e16f9c3936401a26",
+                "iconTagType": 0,
+                "id": 821194,
+                "isSafe": false,
+                "level1CategoryId": 27,
+                "level1CategoryName": "影音视听",
+                "level2CategoryId": 135,
+                "level2CategoryName": "电台",
+                "needFilterInstalled": false,
+                "packageName": "com.miui.fm",
+                "position": 18,
+                "preDownloadTime": 1575453227874,
+                "publishType": 0,
+                "publisherName": "miui_media",
+                "rId": 0,
+                "ratingScore": 3.5,
+                "releaseKeyHash": "88daa889de21a80bca64464243c9ede6",
+                "reportParams": {
+                  "ext_apm_dynamicIconSid": "default",
+                  "_ir_": "JNhjaUSmuMb_vCVnkpEgRYEdy10OLbpJEuvtpbFIybU"
+                },
+                "richMedia": false,
+                "screenshot": "AppStore/01f1dd488c3b3444c0543f9bc32bcf8286c38c677,AppStore/0f39a356fe5624f7b019af450769e16aa9b88a965,AppStore/003a3517bd2c4f0523a6a2ecb36170c9761428c83,AppStore/0fd42524af17761506e291051056c0527d443773d",
+                "showBrief": false,
+                "showVideoTab": false,
+                "subscribeEndTime": 0,
+                "subscribeNum": 0,
+                "subscribeOnlineTime": 0,
+                "subscribeOnlineTimeType": 0,
+                "subscribeState": 0,
+                "suitableType": 0,
+                "updateTime": 1575452515416,
+                "versionCode": 200,
+                "versionName": "1.0.200",
+                "videoId": 0
+              }
+            ]
+          }
+        ],
+        "title": "游戏榜单",
+        "position": 0,
+        "rId": 59073,
+        "hideInstalled": false
+      },
+      "type": "multipleRankHorizon"
+    }
+  ],
+  "listBgUrl": "AppStore/09448c47a3b6b4c681a43fafb308aea34b2a5246f",
+  "sid": "1110eaf8135645820fc4bb0e6c389066bdefault",
+  "thumbnail": "http://t1.market.xiaomi.com/thumbnail/",
+  "todayTimestamp": 1575561600000
+}

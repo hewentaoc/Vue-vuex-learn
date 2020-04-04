@@ -1,0 +1,124 @@
+{
+  "hasMore": false,
+  "host": "http://b0.market.mi-img.com/download/",
+  "list": [
+    {
+      "data": {
+        "suggestionList": [
+          {
+            "canBeFilted": false,
+            "command": false,
+            "cpt": false,
+            "external": false,
+            "word": "阿杜"
+          }
+        ]
+      },
+      "type": "searchPositiveWord"
+    },
+    {
+      "data": {
+        "hasMore": false,
+        "host": "http://b0.market.mi-img.com/download/",
+        "listApp": [
+          {
+            "adType": 0,
+            "ads": 1,
+            "adsTagId": "1.24.4.12",
+            "apkSize": 32125857,
+            "appId": 803457,
+            "appTags": [],
+            "appTypehood": "app",
+            "appendSize": 0,
+            "briefShow": "玉石文玩免费鉴定交流社区",
+            "briefUseIntro": false,
+            "closeTestEndTime": 0,
+            "closeTestStartTime": 0,
+            "commentScore": 5.0,
+            "displayName": "天天鉴宝",
+            "downloadCount": 1609710,
+            "experimentalId": "36^9^1637,3^8^1500,999^18^314159,188^20^1696,36^6^222,36^10^1577",
+            "ext": "hmb_avOsC9BygGxZDunWfotluJEmb_XR4xsqCb9ydNDAK4Uuf3jClNpxuBxnPIugCq4XDHfeUu10ZCOcnDKrFvlhfmpgLfHa8AB_TiPHTwEDx3dT_SZvn8CAeFjhyWfEYrkLdQKkWZxzZMQAFtT5n2UPIdlxjmQg_Auala-uleuDNqlxnkHf9KukclWdDZU_NAa-oaOVrk7Huz5ZI-zpSV0VEzHdGuWh4aLGOf2XV7VkCaB2rSKLaGFio-HKkFHD4IZQ3N0Wnvgvf3GsLSqQgyHx1TavUdRQZc2JbDzOOjE7bDhCfphYXvYEOFJ6_fV2pfoN5Ml9UEAtIloVU8MHwOGORUUaZktmuRrWHln8o1uRQrEWv5WfEpVPIcdMweMBeKnkbc9YoNYVi-J0M23iQmiptWMeoeWUJV_c5Ml9UEAtIloZ1riwBEFDx5Xv1FwNf8lq-Klcs8vCQjjNp28_bQOxPFTtsMh0DaEZbfe6abU5paWAovEnxHaW27Dl3Ydj5XUvNzetv6hvEZU4TIEzTZcFduG-WIbqCw6Y0fYFHr2AZoO8HX-xBViXSOGki1CHMEhCYO81hfFDrCxn7TlCZZ-nJ2kGJJr2Cam-UNaEMtN_LZcBrbe5ohrOaBdQ064cLTE1kzZiAKwDdVcs1DFujHUFFg",
+            "extraData": {},
+            "icon": "AppStore/057f14c14ba36048f18a9111339f34a3fe94047b9",
+            "iconTagType": 0,
+            "id": 803457,
+            "isSafe": false,
+            "level1CategoryId": 5,
+            "level1CategoryName": "实用工具",
+            "level2CategoryId": 131,
+            "level2CategoryName": "小工具",
+            "needFilterInstalled": false,
+            "outerTraceId": "default",
+            "packageName": "com.yiding.jianhuo",
+            "position": 0,
+            "preDownloadTime": 1573205024612,
+            "publishType": 0,
+            "publisherName": "河南天眸网络科技有限公司",
+            "rId": 0,
+            "ratingScore": 5.0,
+            "releaseKeyHash": "8dff58a94e1fef45f744d8f9e1235ffa",
+            "reportParams": {
+              "_ir_": "31UP_A_kYhylwTZ2i_r_nkJlTlWxuYX7-9GjWwCPmbE"
+            },
+            "richMedia": false,
+            "screenshot": "AppStore/05f06d5bbb0f1434b0db3a1e8ad68d0a468d3135b,AppStore/06f06d5bbb0f1434b0db331e8a268d0d468db135b,AppStore/052304437c47db1f192b0f923960f72b29742e7bd,AppStore/0106a48ebe5b15063c22c1ba029d21fce5d408359,AppStore/0106a48ebe5b15063822c8ba0a9d25fce6d408359",
+            "showBrief": true,
+            "showVideoTab": false,
+            "subscribeEndTime": 0,
+            "subscribeNum": 0,
+            "subscribeOnlineTime": 0,
+            "subscribeOnlineTimeType": 0,
+            "subscribeState": 0,
+            "suitableType": 0,
+            "updateTime": 1573196305061,
+            "versionCode": 312,
+            "versionName": "2.2.8",
+            "videoId": 0
+          }
+        ],
+        "thumbnail": "http://t1.market.xiaomi.com/thumbnail/"
+      },
+      "type": "searchSugApps"
+    },
+    {
+      "data": {
+        "suggestionList": [
+          {
+            "canBeFilted": false,
+            "command": false,
+            "cpt": false,
+            "external": false,
+            "word": "八度数据恢复"
+          },
+          {
+            "canBeFilted": false,
+            "command": false,
+            "cpt": false,
+            "external": false,
+            "word": "杀毒"
+          },
+          {
+            "canBeFilted": false,
+            "command": false,
+            "cpt": false,
+            "external": false,
+            "word": "虚拟电话短信"
+          },
+          {
+            "canBeFilted": false,
+            "command": false,
+            "cpt": false,
+            "external": false,
+            "word": "塔读文学"
+          }
+        ]
+      },
+      "type": "searchSugWords"
+    }
+  ],
+  "sid": "1bbdffbe137d2139293c3cf28933257b6app",
+  "skipSearchResult": false,
+  "thumbnail": "http://t1.market.xiaomi.com/thumbnail/",
+  "todayTimestamp": 1574006400000
+}

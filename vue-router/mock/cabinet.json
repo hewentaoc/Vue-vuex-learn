@@ -1,0 +1,38 @@
+
+{
+   "host": "http://f3.market.mi-img.com/download/",
+   "thumbnail": "http://t1.market.xiaomi.com/thumbnail/",
+   "timestamp": 1437550252364,
+   "content": {
+      "contentId": "2",
+      "list": [
+         {
+            "position": "1",
+            "icon": "AppStore/0c82d4ad10c586494e49e5256dc3c2968cc425f98",
+            "link": "file://subject.html?id=168374",
+            "id": "",
+            "title": "金米奖",
+            "titleColor": "#666",
+            "desc": "App界最高荣誉"
+         },
+         {
+            "position": "24",
+            "icon": "AppStore/0c82d4ad10c586494e49e5256dc3c2968cc425f98",
+            "link": "file://subject.html?id=168374",
+            "title": "金米奖",
+            "titleColor": "#666",
+            "desc": "App界最高荣誉",
+            "type": "calendar",
+            "dateColor": "#60c47f"
+         },
+         {
+            "position": "3",
+            "icon": "AppStore/0c82d4ad10c586494e49e5256dc3c2968cc425f98",
+            "link": "file://subject.html?id=168374",
+            "title": "金米奖",
+            "titleColor": "#666",
+            "desc": "App界最高荣誉"
+         }
+      ]
+   }
+}

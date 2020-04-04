@@ -1,0 +1,35 @@
+{
+    "hasMore": false,
+    "list": [{
+        "data": {
+            "appId": 64060,
+            "buttonBgImg": "AppStore/0406b46c7508699ff5d9faf952e68f91ce040c650",
+            "buttonBgImgH": 122,
+            "buttonBgImgW": 554,
+            "buttonFontSize": 56,
+            "buttonMarginTop": 1036,
+            "buttonText": "立即下载领取",
+            "buttonType": "bottom",
+            "bottomBtnWrapBgColor": "#1d483d",
+            "bottomBtnBgColor": "#fbf103",
+            "bottomBtnTxtColor": "#000",
+            "circularBanner": "",
+            "deepLink": "",
+            "elementList": [],
+            "hasMore": false,
+            "id": 64060,
+            "imgs": ["AppStore/014440423b9fb42c62b8d41c38e523e6e0dce0990", "AppStore/079285cb3bf6ff5460a1d8f089c6d1f1ea840d3cc", "AppStore/004440423b9fb42c72b8db1c388523e2e0dc90990"],
+            "mticon": "",
+            "packageName": "com.pmp.ppmoney",
+            "pageTitle": "小米购物理财节",
+            "position": 0,
+            "rId": 5786,
+            "textColor": "#ffffff",
+            "thumbnail": "https://ts.market.mi-img.com/thumbnail/",
+            "uid": "7ee1a"
+        }
+    }],
+    "sid": "1474440ce69fcb74be16c15b8977dec46default",
+    "thumbnail": "https://ts.market.mi-img.com/thumbnail/",
+    "todayTimestamp": 1513612800000
+}

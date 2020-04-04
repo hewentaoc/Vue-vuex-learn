@@ -1,0 +1,28 @@
+{
+  "hasMore": false,
+  "host": "http://f1.market.xiaomi.com/download/",
+  "thumbnail": "http://t1.market.xiaomi.com/thumbnail/",
+  "list": [
+      {
+        "data": {
+            "hasMore": false,
+            "host": "http://f4.market.xiaomi.com/download/",
+            "thumbnail": "http://t1.market.xiaomi.com/thumbnail/",
+            "title": "移动流量包兑换",
+            "giftList": [
+                {
+                  "icon": "AppStore/09777457336e048e53994044ce013cd1fc7b175b2",
+                  "desc": "移动流量包310MB",
+                  "integral": "500积分" 
+                },
+                {
+                  "icon": "AppStore/09777457336e048e53994044ce013cd1fc7b175b2",
+                  "desc": "移动流量包30MB",
+                  "integral": "500积分" 
+                }
+            ]
+        },
+        "type": "recommend"
+      }  
+  ]
+}

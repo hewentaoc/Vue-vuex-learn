@@ -1,0 +1,195 @@
+{
+    "hasMore": false,
+    "list": [{
+        "data": {
+            "begainTimestamp": "1483203600000",
+            "bgBanner": "AppStore/0ca744f0bcc6acba06fce410bcdd0a04ad042d678",
+            "endTimestamp": "1483207200000",
+            "hasMore": false,
+            "listApp": [{
+                "adType": 0,
+                "ads": 0,
+                "apkSize": 35244326,
+                "appId": 1359,
+                "appType": true,
+                "briefShow": "乐在沟通15年，聊天欢乐8亿人",
+                "briefUseIntro": false,
+                "displayName": "QQ",
+                "hdIcon": {
+                    "main": "AppStore/07750d40a68e2445a3439a8f781083c431bfa5934"
+                },
+                "icon": "AppStore/072725ca573700292b92e636ec126f51ba4429a50",
+                "id": 1359,
+                "level1CategoryId": 2,
+                "level1CategoryName": "聊天与社交",
+                "level2CategoryId": 138,
+                "packageName": "com.tencent.mobileqq",
+                "position": 0,
+                "publisherName": "深圳市腾讯计算机系统有限公司",
+                "rId": 1892,
+                "ratingScore": 0,
+                "releaseKeyHash": "be910af39a26a4a992c6fd01a143ed19",
+                "source": "",
+                "suitableType": 0,
+                "updateTime": 1468385874212,
+                "versionCode": 390,
+                "versionName": "6.5.0",
+                "videoId": 0
+            }],
+            "liveVideoUrl": {
+                "miLiveUrl": "walilive://room/join?liveid=4963481_1484033180&playerid=1484033180&query_room_info=true&after_live_end=1&backToOrigin=2&videourl=encode(http://v2.zb.mi.com/4963481_1484033180)",
+                "webViewLiveUrl": "http://s.zb.mi.com/share?lid=4963481_1484033180&zuid=4963481"
+            },
+            "position": 0,
+            "rId": 1892,
+            "recAppLiveVideoTitle": "直播test",
+            "thumbnail": "http://t1.market.xiaomi.com/thumbnail/",
+            "uid": "a05e9"
+        },
+        "type": "recLivePlayBack"
+    }, {
+        "data": {
+            "begainTimestamp": "1483203600000",
+            "bgBanner": "AppStore/0ca744f0bcc6acba06fce410bcdd0a04ad042d678",
+            "endTimestamp": "1483207200000",
+            "hasMore": false,
+            "listApp": [{
+                "adType": 0,
+                "ads": 0,
+                "apkSize": 35244326,
+                "appId": 1359,
+                "appType": true,
+                "briefShow": "乐在沟通15年，聊天欢乐8亿人",
+                "briefUseIntro": false,
+                "displayName": "QQ",
+                "hdIcon": {
+                    "main": "AppStore/07750d40a68e2445a3439a8f781083c431bfa5934"
+                },
+                "icon": "AppStore/072725ca573700292b92e636ec126f51ba4429a50",
+                "id": 1359,
+                "level1CategoryId": 2,
+                "level1CategoryName": "聊天与社交",
+                "level2CategoryId": 138,
+                "packageName": "com.tencent.mobileqq",
+                "position": 0,
+                "publisherName": "深圳市腾讯计算机系统有限公司",
+                "rId": 1892,
+                "ratingScore": 0,
+                "releaseKeyHash": "be910af39a26a4a992c6fd01a143ed19",
+                "source": "",
+                "suitableType": 0,
+                "updateTime": 1468385874212,
+                "versionCode": 390,
+                "versionName": "6.5.0",
+                "videoId": 0
+            }],
+            "liveVideoUrl": {
+                "miLiveUrl": "walilive://room/join?liveid=4963481_1484033180&playerid=1484033180&query_room_info=true&after_live_end=1&backToOrigin=2&videourl=encode(http://v2.zb.mi.com/4963481_1484033180)",
+                "webViewLiveUrl": "http://s.zb.mi.com/share?lid=4963481_1484033180&zuid=4963481"
+            },
+            "position": 0,
+            "rId": 1892,
+            "recAppLiveVideoTitle": "直播test",
+            "thumbnail": "http://t1.market.xiaomi.com/thumbnail/",
+            "uid": "a05e9"
+        },
+        "type": "recLivePlayBack"
+    }, {
+        "data": {
+            "begainTimestamp": "1483203600000",
+            "bgBanner": "AppStore/0ca744f0bcc6acba06fce410bcdd0a04ad042d678",
+            "endTimestamp": "1483207200000",
+            "hasMore": false,
+            "listApp": [{
+                "adType": 0,
+                "ads": 0,
+                "apkSize": 35244326,
+                "appId": 1359,
+                "appType": true,
+                "briefShow": "乐在沟通15年，聊天欢乐8亿人",
+                "briefUseIntro": false,
+                "displayName": "QQ",
+                "hdIcon": {
+                    "main": "AppStore/07750d40a68e2445a3439a8f781083c431bfa5934"
+                },
+                "icon": "AppStore/072725ca573700292b92e636ec126f51ba4429a50",
+                "id": 1359,
+                "level1CategoryId": 2,
+                "level1CategoryName": "聊天与社交",
+                "level2CategoryId": 138,
+                "packageName": "com.tencent.mobileqq",
+                "position": 0,
+                "publisherName": "深圳市腾讯计算机系统有限公司",
+                "rId": 1892,
+                "ratingScore": 0,
+                "releaseKeyHash": "be910af39a26a4a992c6fd01a143ed19",
+                "source": "",
+                "suitableType": 0,
+                "updateTime": 1468385874212,
+                "versionCode": 390,
+                "versionName": "6.5.0",
+                "videoId": 0
+            }],
+            "liveVideoUrl": {
+                "miLiveUrl": "walilive://room/join?liveid=4963481_1484033180&playerid=1484033180&query_room_info=true&after_live_end=1&backToOrigin=2&videourl=encode(http://v2.zb.mi.com/4963481_1484033180)",
+                "webViewLiveUrl": "http://s.zb.mi.com/share?lid=4963481_1484033180&zuid=4963481"
+            },
+            "position": 0,
+            "rId": 1892,
+            "recAppLiveVideoTitle": "直播test",
+            "thumbnail": "http://t1.market.xiaomi.com/thumbnail/",
+            "uid": "a05e9"
+        },
+        "type": "recLivePlayBack"
+    }, {
+        "data": {
+            "begainTimestamp": "1483203600000",
+            "bgBanner": "AppStore/0ca744f0bcc6acba06fce410bcdd0a04ad042d678",
+            "endTimestamp": "1483207200000",
+            "hasMore": false,
+            "listApp": [{
+                "adType": 0,
+                "ads": 0,
+                "apkSize": 35244326,
+                "appId": 1359,
+                "appType": true,
+                "briefShow": "乐在沟通15年，聊天欢乐8亿人",
+                "briefUseIntro": false,
+                "displayName": "QQ",
+                "hdIcon": {
+                    "main": "AppStore/07750d40a68e2445a3439a8f781083c431bfa5934"
+                },
+                "icon": "AppStore/072725ca573700292b92e636ec126f51ba4429a50",
+                "id": 1359,
+                "level1CategoryId": 2,
+                "level1CategoryName": "聊天与社交",
+                "level2CategoryId": 138,
+                "packageName": "com.tencent.mobileqq",
+                "position": 0,
+                "publisherName": "深圳市腾讯计算机系统有限公司",
+                "rId": 1892,
+                "ratingScore": 0,
+                "releaseKeyHash": "be910af39a26a4a992c6fd01a143ed19",
+                "source": "",
+                "suitableType": 0,
+                "updateTime": 1468385874212,
+                "versionCode": 390,
+                "versionName": "6.5.0",
+                "videoId": 0
+            }],
+            "liveVideoUrl": {
+                "miLiveUrl": "walilive://room/join?liveid=4963481_1484033180&playerid=1484033180&query_room_info=true&after_live_end=1&backToOrigin=2&videourl=encode(http://v2.zb.mi.com/4963481_1484033180)",
+                "webViewLiveUrl": "http://s.zb.mi.com/share?lid=4963481_1484033180&zuid=4963481"
+            },
+            "position": 0,
+            "rId": 1892,
+            "recAppLiveVideoTitle": "直播test",
+            "thumbnail": "http://t1.market.xiaomi.com/thumbnail/",
+            "uid": "a05e9"
+        },
+        "type": "recLivePlayBack"
+    }],
+    "sid": "1043bfe70cfb2eaef38b77372b4044601default",
+    "thumbnail": "http://t1.market.xiaomi.com/thumbnail/",
+    "todayTimestamp": 1484841600000
+}

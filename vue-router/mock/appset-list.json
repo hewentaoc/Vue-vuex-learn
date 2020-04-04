@@ -1,0 +1,160 @@
+{
+  "hasMore": false,
+  "list": [
+    {
+      "data": {
+        "uid": "a9a43",
+        "linkTitle": "应用集测试横滑",
+        "thumbnail": "http://t1.market.xiaomi.com/thumbnail/",
+        "host": "http://f4.market.xiaomi.com/download/",
+        "hasMore": false,
+        "maxElements": -1,
+        "link": "",
+        "position": 0,
+        "rId": 62029,
+        "title": "应用集测试横滑",
+        "listAppset": [
+          {
+            "appCount": 4,
+            "appUseCount": 3,
+            "description": "路飞 索隆 乌索普 娜美 罗宾 乔巴",
+            "appIconList": [
+              "AppStore/07e7ec516a107460736dada0f9ea421673de1e158",
+              "AppStore/0fd814abf48bb458dbdb36d1e5ff62134794360d2",
+              "AppStore/063a9a405082c48a41294c726351899287949e95b"
+            ],
+            "rId": 62029,
+            "userId": 2,
+            "appsetId": 3307,
+            "createTime": 1568703799327,
+            "appType": true,
+            "id": 3307,
+            "position": 0,
+            "viewCount": 0,
+            "bannerImg": "AppStore/0fd9347610cdc759a81cb0a3a83b02486de40d081",
+            "slogan": "海贼王"
+          },
+          {
+            "appCount": 3,
+            "appUseCount": 0,
+            "description": "冲刺吧",
+            "appIconList": [],
+            "rId": 62029,
+            "userId": 3,
+            "appsetId": 3308,
+            "createTime": 1568703969258,
+            "appType": true,
+            "id": 3308,
+            "position": 1,
+            "viewCount": 0,
+            "bannerImg": "AppStore/04fc155d34f314f0b2dc7f25f714a1fee6c8f66f3",
+            "slogan": "头文字D"
+          },
+          {
+            "appCount": 3,
+            "appUseCount": 2,
+            "description": "自建",
+            "appIconList": [
+              "AppStore/07e7ec516a107460736dada0f9ea421673de1e158",
+              "AppStore/05bb9e534b44e4fcd36df33b80cf93b7805a1e1bd",
+              "AppStore/063a9a405082c48a41294c726351899287949e95b"
+            ],
+            "rId": 62029,
+            "userId": 1,
+            "appsetId": 3309,
+            "createTime": 1568704350283,
+            "appType": true,
+            "id": 3309,
+            "position": 2,
+            "viewCount": 0,
+            "bannerImg": "AppStore/0eed54dc2ed65e393e2dd43a7686014e52c41ae74",
+            "slogan": "自建测试1"
+          },
+          {
+            "appCount": 4,
+            "appUseCount": 1,
+            "description": "想听音乐就来这里",
+            "appIconList": [
+              "AppStore/0161851d9f69f83d08faa187459c229391843e225",
+              "AppStore/0279315ebd6624e780bb25e31683d8d8aa43c5e43",
+              "AppStore/039c7545c1e5e409bbaf0063b20b36d3eb9433771"
+            ],
+            "rId": 62029,
+            "userId": 3,
+            "appsetId": 3310,
+            "createTime": 1568704512793,
+            "appType": true,
+            "id": 3310,
+            "position": 3,
+            "viewCount": 0,
+            "bannerImg": "AppStore/04fc155d34f314f0b2dc7f25f714a1fee6c8f66f3",
+            "slogan": "音乐合集"
+          },
+          {
+            "appCount": 3,
+            "appUseCount": 0,
+            "description": "来拯救你这张脸吧",
+            "appIconList": [
+              "AppStore/094d04b61e734e3175265ba17ba5165ea12408b8a",
+              "AppStore/0fb0a14f90f504cd12194e22080071493871f13a5",
+              "AppStore/090f3150c41aa4ac9077ac97b7d93b0709843ee6b"
+            ],
+            "rId": 62029,
+            "userId": 1,
+            "appsetId": 3311,
+            "createTime": 1568704704590,
+            "appType": true,
+            "id": 3311,
+            "position": 4,
+            "viewCount": 12,
+            "bannerImg": "AppStore/07e7ec516a107460736dada0f9ea421673de1e158",
+            "slogan": "修图合集"
+          },
+          {
+            "appCount": 5,
+            "appUseCount": 0,
+            "description": "腾讯的东东",
+            "appIconList": [
+              "AppStore/09792c547b9684cb21122a7e5f2730980b70d8367",
+              "AppStore/093fe449d5779a8c46e66d9463a3c295f33415529",
+              "AppStore/08184484fb10cc81b182eac527943eac6c5437547"
+            ],
+            "rId": 62029,
+            "userId": 2,
+            "appsetId": 3312,
+            "createTime": 1568704869978,
+            "appType": true,
+            "id": 3312,
+            "position": 5,
+            "viewCount": 2,
+            "bannerImg": "AppStore/0fd9347610cdc759a81cb0a3a83b02486de40d081",
+            "slogan": "腾讯合集"
+          },
+          {
+            "appCount": 3,
+            "appUseCount": 3,
+            "description": "言希和温衡",
+            "appIconList": [
+              "AppStore/07e7ec516a107460736dada0f9ea421673de1e158",
+              "AppStore/063a9a405082c48a41294c726351899287949e95b",
+              "AppStore/0fd814abf48bb458dbdb36d1e5ff62134794360d2"
+            ],
+            "rId": 62029,
+            "userId": 1,
+            "appsetId": 3306,
+            "createTime": 1568700430665,
+            "appType": true,
+            "id": 3306,
+            "position": 6,
+            "viewCount": 0,
+            "bannerImg": "AppStore/07e7ec516a107460736dada0f9ea421673de1e158",
+            "slogan": "十年一品温如言"
+          }
+        ]
+      },
+      "type": "appsetList"
+    }
+  ],
+  "thumbnail": "http://t1.market.xiaomi.com/thumbnail/",
+  "todayTimestamp": 1568649600000
+}

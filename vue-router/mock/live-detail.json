@@ -1,0 +1,20 @@
+{
+    "hasMore": false,
+    "list": [{
+        "data": {
+            "bgBanner": "AppStore/0c305d502b72f4bda13d462e140ee9434236e921d",
+            "elementList": [],
+            "hasMore": false,
+            "isSubscribed": false,
+            "position": 0,
+            "rId": 1894,
+            "subscriberNum": 0,
+            "thumbnail": "http://t1.market.xiaomi.com/thumbnail/",
+            "uid": "a05e9"
+        },
+        "type": "recLiveDetail"
+    }],
+    "sid": "1043bfe70cfb2eaef38b77372b4044601default",
+    "thumbnail": "http://t1.market.xiaomi.com/thumbnail/",
+    "todayTimestamp": 1484841600000
+}

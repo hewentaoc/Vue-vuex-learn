@@ -1,0 +1,168 @@
+{
+  "extension": {
+    "totalCount": 12
+  },
+  "hasMore": false,
+  "list": [
+    {
+      "data": {
+        "appCount": 5,
+        "appUseCount": 0,
+        "thumbnail": "http://t1.market.xiaomi.com/thumbnail/",
+        "hasMore": false,
+        "description": "腾讯的东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东腾讯的东东东",
+        "userName": "2222",
+        "userId": 2,
+        "appsetId": 3312,
+        "createTime": 1568704869978,
+        "host": "http://b2.market.xiaomi.com/download/",
+        "viewCount": 1,
+        "bannerImg": "http://img5.imgtn.bdimg.com/it/u=3987907653,720009510&fm=26&gp=0.jpg",
+        "userIcon": "AppStore/07e7ec516a107460736dada0f9ea421673de1e158",
+        "slogan": "腾讯合腾讯集"
+      },
+      "type": "appsetMain"
+    },
+    {
+      "data": {
+        "hasMore": false,
+        "host": "http://b0.market.xiaomi.com/download/",
+        "listApp": [
+          {
+            "adType": 0,
+            "ads": 0,
+            "apkSize": 19208530,
+            "appId": 2241,
+            "appTags": [
+              {
+                "link": "sametag/84",
+                "tagId": 84,
+                "tagName": "时事"
+              },
+              {
+                "link": "sametag/469",
+                "tagId": 469,
+                "tagName": "新闻"
+              },
+              {
+                "link": "sametag/391",
+                "tagId": 391,
+                "tagName": "体育"
+              },
+              {
+                "link": "sametag/9",
+                "tagId": 9,
+                "tagName": "腾讯"
+              },
+              {
+                "link": "sametag/394",
+                "tagId": 394,
+                "tagName": "娱乐"
+              },
+              {
+                "link": "sametag/237",
+                "tagId": 237,
+                "tagName": "NBA"
+              }
+            ],
+            "appTypehood": "app",
+            "appendSize": 0,
+            "briefShow": "看新闻攒积分，壕礼兑不停",
+            "briefUseIntro": false,
+            "closeTestEndTime": 0,
+            "closeTestStartTime": 0,
+            "commentScore": 5.0,
+            "displayName": "腾讯新闻",
+            "downloadCount": 2206728012,
+            "hdIcon": {
+              "main": "AppStore/00da65550610040f81b8b6709f45be6b7c6e9e628"
+            },
+            "icon": "AppStore/09792c547b9684cb21122a7e5f2730980b70d8367",
+            "iconTagType": 0,
+            "id": 2241,
+            "isSafe": false,
+            "level1CategoryId": 11,
+            "level1CategoryName": "新闻资讯",
+            "level2CategoryId": 191,
+            "level2CategoryName": "资讯",
+            "needFilterInstalled": false,
+            "packageName": "com.tencent.news",
+            "position": 0,
+            "preDownloadTime": 1565335352546,
+            "publishType": 0,
+            "publisherName": "腾讯科技（北京）有限公司",
+            "rId": 0,
+            "ratingScore": 5.0,
+            "recommendReason": "看新闻的看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方看新闻的地方地方",
+            "releaseKeyHash": "4cf6456af150a7f11cafa9f34a3d8cda",
+            "richMedia": false,
+            "screenshot": "AppStore/0812850a6c7f93a4de00c7696b6f6cac351402749,AppStore/09ab24a54b9c8733539d42feea224eeabe343a6f3,AppStore/07ab234543988433839d45fee6924fe3bac502aa9,AppStore/0512895a617c94a43000c46967bf64a530fd76c28,AppStore/0812850a6c7f94a4d800c069616f61ac321402749",
+            "showBrief": false,
+            "showVideoTab": false,
+            "subscribeEndTime": 0,
+            "subscribeNum": 0,
+            "subscribeOnlineTime": 0,
+            "subscribeOnlineTimeType": 0,
+            "subscribeState": 0,
+            "suitableType": 2,
+            "updateTime": 1565331281616,
+            "versionCode": 5860,
+            "versionName": "5.8.60",
+            "videoId": 0
+          },
+          {
+            "adType": 0,
+            "ads": 0,
+            "apkSize": 6930078,
+            "appId": 761343,
+            "appTags": [],
+            "appTypehood": "app",
+            "appendSize": 0,
+            "briefShow": "九州缥缈录全网首播",
+            "briefUseIntro": false,
+            "closeTestEndTime": 0,
+            "closeTestStartTime": 0,
+            "commentScore": 4.5,
+            "displayName": "腾讯视频极速版",
+            "downloadCount": 25810876,
+            "icon": "AppStore/093fe449d5779a8c46e66d9463a3c295f33415529",
+            "iconTagType": 0,
+            "id": 761343,
+            "isSafe": false,
+            "level1CategoryId": 27,
+            "level1CategoryName": "影音视听",
+            "level2CategoryId": 132,
+            "level2CategoryName": "视频",
+            "needFilterInstalled": false,
+            "packageName": "com.tencent.videolite.android",
+            "position": 0,
+            "preDownloadTime": 1564997827984,
+            "publishType": 0,
+            "publisherName": "腾讯科技（北京）有限公司&mdash;&mdash;视频",
+            "rId": 0,
+            "ratingScore": 4.5,
+            "releaseKeyHash": "eb85af97457a11a3990c2d106c592b40",
+            "richMedia": false,
+            "screenshot": "AppStore/09e30422d1d575e01c73d95c0cf7ac410b6419c95,AppStore/0b7e950c41db957ade3888b513f5f8ed9d342441a,AppStore/0009454c6dfbd46ef2e959fd6f0c371119d33204f,AppStore/0f09449c6bfddf6e32e952fd622c301014d424f75,AppStore/0d09454c6dfbd46ef2e956fd6f5c371419d31204f",
+            "showBrief": false,
+            "showVideoTab": false,
+            "subscribeEndTime": 0,
+            "subscribeNum": 0,
+            "subscribeOnlineTime": 0,
+            "subscribeOnlineTimeType": 0,
+            "subscribeState": 0,
+            "suitableType": 0,
+            "updateTime": 1564993998261,
+            "versionCode": 20067,
+            "versionName": "1.7.1.20067",
+            "videoId": 0
+          }
+        ],
+        "thumbnail": "http://t1.market.xiaomi.com/thumbnail/"
+      },
+      "type": "appsetAppList"
+    }
+  ],
+  "thumbnail": "http://t1.market.xiaomi.com/thumbnail/",
+  "todayTimestamp": 1568649600000
+}

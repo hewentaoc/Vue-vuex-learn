@@ -1,0 +1,31 @@
+{
+    "campaignList": [{
+        "appId": 45428,
+        "banner": "http://file.market.xiaomi.com/thumbnail/webp/l720/AppStore/00634059df2154f6815f07518eb68c918234eca32",
+        "campaignType": "抽奖",
+        "displayName": "朱诺的金钱礼包",
+        "link": "campaign/appId/45428?appId=45428",
+        "packageName": "com.junobe.android.junowallet"
+    }, {
+        "appId": 22704,
+        "banner": "http://file.market.xiaomi.com/thumbnail/webp/l720/AppStore/02efa5640180fb7c65deec07df5f0ad1a4b4076e9",
+        "campaignType": "抽奖",
+        "displayName": "58同城",
+        "link": "campaign/appId/22704?appId=22704",
+        "packageName": "com.wuba"
+    }, {
+        "appId": 37,
+        "banner": "http://file.market.xiaomi.com/thumbnail/webp/l720/AppStore/02efa4640e80fa7c64dee207db5f02d1a4b4076e9",
+        "campaignType": "特权",
+        "displayName": "挖财记账理财",
+        "link": "campaign/appId/37?appId=37",
+        "packageName": "com.wacai365"
+    }, {
+        "appId": 9858,
+        "banner": "http://file.market.xiaomi.com/thumbnail/webp/l720/AppStore/02634529de2359f6485f0b5186c68d9a86f413ec0",
+        "campaignType": "抽奖",
+        "displayName": "千千静听百度音乐版",
+        "link": "campaign/appId/9858?appId=9858",
+        "packageName": "com.ting.mp3.qianqian.android"
+    }]
+}

@@ -1,0 +1,90 @@
+{
+  "list": [
+    {
+      "data": {
+        "secureInfo": {
+          "manualInfo": {
+              "tagList": [
+                  {
+                      "type": "launchIssueTag",
+                      "title": "启动失败",
+                      "desc": "可能出现启动失败的问题"
+                  },
+                  {
+                    "type": "launchIssueTag",
+                    "title": "启动失败",
+                    "desc": "可能出现启动失败的问题"
+                  }
+              ],
+              "time": 1557737240241,
+              "detectTeam": [
+                  {
+                      "name": "人工检测团队",
+                      "icon": ""
+                  }
+              ],
+              "detector": {
+                  "name": "刘玉玲",
+                  "icon": "url"
+              },
+              "title": "人工检测",
+              "content": "按相关文案配置返回",
+              "method": "按相关文案配置返回"
+          },
+          "securityInfo": {
+              "tagList": [
+                  {
+                      "type": "secruityTag",
+                      "title": "安全",
+                      "desc": "安全"
+                  }
+              ],
+              "time": 1557737240241,
+              "detectTeam": [
+                  {
+                      "name": "腾讯检测",
+                      "icon": ""
+                  },
+                  {
+                      "name": "百度检测",
+                      "icon": ""
+                  }
+              ],
+              "detector": {
+                  "name": "自动检测",
+                  "icon": ""
+              },
+              "title": "安全检测",
+              "content": "按相关文案配置返回",
+              "method": "按相关文案配置返回"
+          },
+          "adDetectInfo": {
+              "tagList": [
+                  {
+                      "type": "noAdTag",
+                      "title": "无广告",
+                      "desc": "无广告"
+                  }
+              ],
+              "time": 1557737240241,
+              "detectTeam": [
+                  {
+                      "name": "腾讯检测",
+                      "icon": ""
+                  }
+              ],
+              "detector": {
+                  "name": "自动检测",
+                  "icon": ""
+              },
+              "title": "广告检测",
+              "content": "按相关文案配置返回",
+              "method": "按相关文案配置返回"
+          }
+      }
+      },
+      "type": "appSecureInfo"
+    }
+  ],
+  "sid": "adfaadsad5678a8d7a5"
+}
